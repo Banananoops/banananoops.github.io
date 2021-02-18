@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: serena christine photo
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,20 +8,20 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
+    - title: 'about me'
+      url: '/aboutme'
+    - title: 'services'
+      url: '/services'
+    - title: 'contact'
       url: '/contact'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.3
 
 post_settings:
   grid_spacing: 10
@@ -65,8 +65,8 @@ color_settings:
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
+  text_light_color: '#cac1b5'
+  accent_color: '#ffffff'
   border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
