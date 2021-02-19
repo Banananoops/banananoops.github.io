@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: /images/svg/logo-full.svg
+  logo_width: 275
 
 menu_settings:
   menu_items:
@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
 
 hero_settings:
-  overlay_opacity: 0.3
+  overlay_opacity: .01
 
 post_settings:
   grid_spacing: 10
@@ -65,7 +65,7 @@ color_settings:
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
-  text_light_color: '#cac1b5'
+  text_light_color: '#000000'
   accent_color: '#ffffff'
   border_color: '#dddddd'
   hero_background_color: '#132930'
