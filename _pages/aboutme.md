@@ -1,11 +1,11 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+subtitle: 
+description: 
+featured_image: /images/personal-photos/aboutme3.jpg
 ---
 
-## Features
+## HAIIII
 
 We've packed Personal full of powerful features to help showcase your work:
 
@@ -30,3 +30,4 @@ We've packed Personal full of powerful features to help showcase your work:
 Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+

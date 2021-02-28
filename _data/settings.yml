@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/svg/logo-full.svg
-  logo_width: 275
+  logo_width: 250
 
 menu_settings:
   menu_items:
@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     - title: 'about me'
       url: '/aboutme'
-    - title: 'services'
-      url: '/services'
+    - title: 'investment'
+      url: '/investment'
     - title: 'contact'
       url: '/contact'
 
