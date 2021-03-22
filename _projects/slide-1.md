@@ -1,44 +1,28 @@
 ---
 title: 'engagements'
-subtitle: 'This is a demo'
+subtitle:
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Just got proposed to by the love of your life? Congratulations! Looking for a photographer to capture the love and share the news? Well you're in the right place!
+banner_image: /images/Engagements/kclaughyheader2.jpg
 featured_image: /images/personal-photos/kclaughy.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<div class="gallery" data-columns="1">
+	<img src="/images/Engagements/kc-posed-horizontal.jpg">
+	<img src="/images/Engagements/kc-kealylaugh-horizontal.jpg">
+	<img src="/images/Engagements/kc-mistletoe-horizontal.jpg">
+</div>
 
-## Demo content
+## yay, you're engaged!!!
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+***package - $350***
 
-You can create lists:
+* 2 Hours
+* 2 Outfit changes
+* 1 location
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
@@ -46,26 +30,27 @@ And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 [^2]: Powerful features to show off your work.
 [^3]: Maintained and supported by the theme developer.
 
-You can throw in some horizontal rules too:
-
----
-
 ### Image galleries
 
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/Engagements/1212.jpg">
+	<img src="/images/Engagements/evangel2-29.jpg">
+	<img src="/images/Engagements/ea-eyecontact-vertical.jpg">
+	<img src="/images/Engagements/ea-sitting-horizontal.jpg">
+	<img src="/images/Engagements/ks-eyecontact-horizontal.jpg">
+	<img src="/images/Engagements/evangel2-16.jpg">
+	<img src="/images/Engagements/kc-champagnekiss-vertical.jpg">
+	<img src="/images/Engagements/ks-blanket-vertical.jpg">
+		<img src="/images/Engagements/q.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
 ```html
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/Engagements/1212.jpg">
     <img src="/images/demo/demo-landscape.jpg">
     <img src="/images/demo/demo-square.jpg">
     <img src="/images/demo/demo-landscape-2.jpg">
@@ -96,6 +81,16 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
+**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+And:
+
+1. Numbered lists
+2. Like this other one
+3. Are great too
+
+You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+
+>I couldn’t have dreamed you into existence because I didn’t even know I needed you. You must have been sent to me                 *-Kamand Kojouri”* 
 
 ## Pretty cool, huh?
 

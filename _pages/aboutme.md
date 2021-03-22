@@ -5,7 +5,7 @@ description:
 featured_image: /images/personal-photos/aboutme3.jpg
 ---
 
-## HAIIII
+## Haaaa
 
 We've packed Personal full of powerful features to help showcase your work:
 
