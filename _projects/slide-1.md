@@ -3,7 +3,7 @@ title: 'engagements'
 subtitle:
 date: 2018-06-30 00:00:00
 description: Just got proposed to by the love of your life? Congratulations! Looking for a photographer to capture the love and share the news? Well you're in the right place!
-banner_image: /images/Engagements/kclaughyheader2.jpg
+banner_image: /images/Engagements/kcheader3.jpg
 featured_image: /images/personal-photos/kclaughy.jpg
 ---
 
@@ -24,12 +24,6 @@ featured_image: /images/personal-photos/kclaughy.jpg
 * 1 location
 
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
 ### Image galleries
 
 Here's a really neat custom feature we added – galleries:
@@ -43,7 +37,7 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/Engagements/evangel2-16.jpg">
 	<img src="/images/Engagements/kc-champagnekiss-vertical.jpg">
 	<img src="/images/Engagements/ks-blanket-vertical.jpg">
-		<img src="/images/Engagements/q.jpg">
+	<img src="/images/Engagements/q.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
