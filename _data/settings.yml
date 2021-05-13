@@ -73,9 +73,11 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap" rel="stylesheet">'
-  title_font: '"Playfair Display SC", serif'
-  body_font: '"Playfair Display SC", serif'
+  font_embed: '<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap" rel="stylesheet">'
+  title_font: '<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&display=swap" rel="stylesheet">'
+  body_font: 'Crimson Text', serif;
   regular_weight: 400
   bold_weight: 600
   site_title:
