@@ -3,18 +3,45 @@
 	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
 
 		<div class="contact-form__item">
-			<label class="contact-form__label">Email Address *</label>
-			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+			<label class="contact-form__label">your name</label>
+			<input type="text" name="name" placeholder="" class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
-			<label class="contact-form__label">Name *</label>
-			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+			<label class="contact-form__label">email address</label>
+			<input type="text" name="email" placeholder="" class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
-			<label class="contact-form__label">Message *</label>
-			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+			<label class="contact-form__label">which package are you interested in?</label>
+			<div>
+				<input type="radio" id="age1" name="age" value="30" class="contact-form__input">
+				<label for="age1">couples</label>
+			</div>
+			<div>
+				<input type="radio" id="age2" name="age" value="60" class="contact-form__input">
+				<label for="age2">seniors</label>
+			</div>
+			<div>
+				<input type="radio" id="age3" name="age" value="100" class="contact-form__input">
+				<label for="age3">boudoir</label>
+			</div>
+			
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">do you have a preferred date?</label>
+			<input type="date" id="start" name="preferred-date" min="2021-01-01" max="2022-01-01" class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">tell me more!</label>
+			<textarea name="message" placeholder="tell me a litte bit about yourself and your vision (if you have one)!" class="contact-form__textarea"></textarea>
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">how did you hear about me?</label>
+			<input type="text" name="email" placeholder="" class="contact-form__input">
 		</div>
 
 		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />

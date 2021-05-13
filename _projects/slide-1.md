@@ -2,7 +2,7 @@
 title: 'engagements'
 subtitle:
 date: 2018-06-30 00:00:00
-description: Just got proposed to by the love of your life? Congratulations! Looking for a photographer to capture the love and share the news? Well you're in the right place!
+description: Just got proposed to by the love of your life? Congratulations! Looking for a photographer to capture the love and share the news? I can do that!
 banner_image: /images/Engagements/kcheader3.jpg
 featured_image: /images/personal-photos/kclaughy.jpg
 ---

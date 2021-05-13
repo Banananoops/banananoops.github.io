@@ -35,6 +35,10 @@
 	&:first-child {
 		margin-top: 0;
 	}
+ 
+	div {
+		padding: 10px;
+	}
 }
 
 .contact-form__item--error {
@@ -85,6 +89,11 @@
 	&:focus {
 		outline: none;
 		border-color: $accent-color;
+	}
+
+	&[type="radio"] {
+		appearance: auto;
+		width: auto;
 	}
 }
 

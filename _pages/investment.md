@@ -1,8 +1,8 @@
 ---
 title: investment
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+subtitle: 
+description: 
+featured_image: /images/personal-photos/untitled-7672.jpg
 ---
 
 ## Features

@@ -1,8 +1,8 @@
 ---
-title: About me
+title: "hi, my name is serena (:" 
 subtitle: 
 description: 
-featured_image: /images/personal-photos/aboutme3.jpg
+featured_image: /images/personal-photos/aboutme4.jpg
 ---
 
 ## Haaaa
